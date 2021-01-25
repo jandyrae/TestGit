@@ -2,8 +2,6 @@ Hello World! We miss you.
 Goodbye.
 See ya later
 Welcome Back.
-<<<<<<< HEAD
 come back soon
-=======
 :)
->>>>>>> 71b7eebd431c40042dc8484f127694d5ae799e30
+
